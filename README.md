@@ -12,7 +12,7 @@
 
 I connect open data, spatial analytics, customer and investment metrics, AI tools, and automation within decision-support frameworks for project assistance and support, product management, as well as consultancy and advocacy in the energy transition and decarbonization domains.
 
-My experience sits at the overlap of layers I try to keep coherent:
+My experience sits at the overlap of layers:
 
 - ⚙️ **Technical** — Python-based pipelines (ETL/ELT, simulation models, OOP), API integrations and BI analysis, agentic workflows, and CI/CD practices.
 - 📐 **Financial & regulatory** — IRR/NPV, PPA, LEVELs/LCA, ETS2, EPBD, Energy Tariff Structures, Renovation Wave: Building Stock Large-scale Rehabilitation Heating/Cooling, Social Climate Fund.
@@ -30,7 +30,7 @@ My experience sits at the overlap of layers I try to keep coherent:
 
 ## Pubic frameworks on GitHub
 
-📊 **[Energy Poverty Advisory Hub Projects Monitor](https://github.com/ohusiev/epah-atlas-monitor) ** 
+📊 **[Energy Poverty Advisory Hub Projects Monitor](https://github.com/ohusiev/epah-atlas-monitor)** 
 EPAH Energy Poverty Atlas (300+ projects web-site inventory) scraping, ETL pipeline, and interactive dashboard scaffold
 
 **🏗️ [SPACER-HB Framework](https://github.com/ohusiev/spacer-hb-framework)** · 
@@ -71,5 +71,5 @@ Python backend for a municipal retrofit planning tool · GeoPandas vulnerability
 **🏙️ [+CityxChange](https://www.linkedin.com/posts/ohusiev_crispiano-per-cxc-activity-7134961867654934528-EVxo/)** · Horizon 2020 · R2M Solution  
 Digital twin models (IES VE/iCD + SketchUp) for district-level PED/PEN renovation and energy integration
 
-**🌿 [E40 international waterway](https://necu.org.ua/proyekty/e40ukraine/#team)** · National Ecological Centre of Ukraine  
+**🌿 [E40 international waterway advocacy campaign](https://necu.org.ua/proyekty/e40ukraine/#team)** · National Ecological Centre of Ukraine  
 Organised international coordination meetings on wetland ecosystem services · national roundtable on climate & ecological risks · techno-economic assessment with EPD data, Travel Cost and replacement cost valuation
