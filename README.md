@@ -31,10 +31,10 @@ My experience sits at the overlap of layers:
 ## Pubic frameworks on GitHub
 
 📊 **[Energy Poverty Advisory Hub Projects Monitor](https://github.com/ohusiev/epah-atlas-monitor)** 
-EPAH Energy Poverty Atlas (300+ projects web-site inventory) scraping, ETL pipeline, and interactive dashboard scaffold
+EPAH Energy Poverty Atlas (300+ projects web-site inventory) scraping, ETL pipeline, and interactive dashboard scaffold.
 
 **🏗️ [SPACER-HB Framework](https://github.com/ohusiev/spacer-hb-framework)** · 
-Spatially integrated pre-feasibility framework for energy community public data-based prefeasibility study · 10+ open datasets · 4+ Python simulation models · 300+ buildings
+End-to-end open-data prefeasibility workflow for energy communities — spatially integrated inventory of building stock and solar PV potential; customer cohort benefit mapping, household bill reduction modelling, sensitivity analysis · 10+ datasets · 4 simulation models · 300+ buildings.
 
 ---
 
